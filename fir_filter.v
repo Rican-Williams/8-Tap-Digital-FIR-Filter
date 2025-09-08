@@ -21,7 +21,7 @@ module fir_filter (
 
     assign b[0] = 8'b00010000;
     assign b[1] = 8'b00010000;
-    assign b[2] = 8'b00010000;o
+    assign b[2] = 8'b00010000;
     assign b[3] = 8'b00010000;
     assign b[4] = 8'b00010000;
     assign b[5] = 8'b00010000;
